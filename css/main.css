@@ -5,13 +5,13 @@
   We are setting a default value of the $height to high using $height:high
 */
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: Tahoma, Helvetica, Arial, sans-serif;
   background-color: white;
   color: #ecf0f1;
   font-size: 18px; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif;}
+  font-family: "Times New Roman", serif; }
 
 nav {
   font-size: 20px;
